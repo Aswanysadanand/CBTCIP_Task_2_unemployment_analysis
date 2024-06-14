@@ -1,0 +1,1 @@
+Unemployment is measured by the unemployment rate which is the number ofpeople who areuneloyed as a percentage of the total labour force.We have seen a sharp increase in the number of unemployment rate during Covid 19, so analysing the unemploymentrate can be a good data science project.
